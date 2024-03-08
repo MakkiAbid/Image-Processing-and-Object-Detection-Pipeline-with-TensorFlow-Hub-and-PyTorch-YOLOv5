@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 ## Dataset Link for style_images
 
-[Dataset's Website](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)
+[Best Artwork of All Time -- ICARDO](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)
 
 
 # Usage
